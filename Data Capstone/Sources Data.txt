@@ -1,0 +1,9 @@
+Natural_Gas_Consumption --> nasdaqdatalink
+Natural_Gas_Price --> nasdaqdatalink
+Oil_Consumption --> nasdaqdatalink
+Oil_Price --> nasdaqdatalink
+Oil_Price_Smaller --> nasdaqdatalink, derived from Oil_Price, just smaller dataset
+oilprice_monyhly --> https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=M
+oilprice_sales --> Sales: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=A303600001&f=M
+                   Price: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=M
+
